@@ -8,5 +8,5 @@ module.exports = {
      */
     description: '演習手順ご案内' ,
     dest: 'docs/',
-    base: '/text/',
+    base: '/CloudArch/',
   }

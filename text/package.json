@@ -1,12 +1,9 @@
 {
-  "dependencies": {
-    "yarn": "^1.22.19"
+  "devDependencies": {
+    "vuepress": "^1.9.10"
   },
   "scripts": {
     "src:dev": "vuepress dev src",
     "src:build": "vuepress build src"
-  },
-  "devDependencies": {
-    "vuepress": "^1.9.10"
   }
 }

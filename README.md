@@ -14,8 +14,8 @@ yarn src:dev
 yarn src:build
 ```
 
-- text/docs/に成果物ができる
-- github pages では当面、textブランチのdocsフォルダを公開フォルダにします
+- /docs/に成果物ができる
+- github pages では当面、textブランチの/docsフォルダを公開フォルダにします
 
 ## notice
 - node.jsのバージョンとvuepressのがあってない？ので以下を投入してからyarnすると良いかと
